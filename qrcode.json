@@ -1,0 +1,12 @@
+{
+    "$jason": {
+        "body": {
+            "background": {
+                "type": "camera",
+                "options": {
+                    "device": "back"
+                }
+            }
+        }
+    }
+}
